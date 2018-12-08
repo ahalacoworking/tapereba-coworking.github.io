@@ -1,0 +1,35 @@
+{
+  "name": "tapereba-coworking",
+  "version": "0.1.0",
+  "description": "Source for Taperebá Coworking website",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-beautify": "^2.0.1",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-html-beautify": "^1.0.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^5.0.0",
+    "pump": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tapereba-coworking/tapereba-coworking.github.io.git"
+  },
+  "author": "Ricardo Gouveia <contato@rcrd.me> (https://rcrd.me/)",
+  "contributors": [
+    "Wilfison Batista <***@***.com> (http://***.com)",
+    "Paulo <***@***.com> (http://***.com)"
+  ],
+  "license": "MIT"
+}
